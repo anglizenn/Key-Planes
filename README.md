@@ -1,5 +1,5 @@
 # Key Planes
-A 1-player or 2-player typing game created on Python. Type the letters on each plane to get the item carried by the plane where different items have different effects on the life and score points. There are three difficulties available: Easy, Medium, Hard and the highscores for each difficulty are recorded. 
+A 1-player or 2-player typing game created on Python. Type the letters on each plane to get the item carried by the plane where different items have different effects on the life and score points. There are three difficulties available: Easy, Medium, Hard and the highscores for each difficulty are recorded. Demo: https://youtu.be/KPnQV8c719Y
 ## How to Play
 ### Player 1
 <li>QWERTY - Type Letters</li>
